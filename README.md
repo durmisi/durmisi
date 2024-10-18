@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm **Admir**!
 
-<!--
-**durmisi/durmisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software architect and developer, focused on cloud-native applications, AI-driven solutions, and building platforms that solve real-world challenges. With a strong background in microservices architecture, DevOps, and AI integrations, I strive to create scalable, efficient, and innovative software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I’m working on
+- **Cloud-Native Microservices Architecture**: Prototyping and building cloud-native solutions using technologies like .NET, Azure Cloud, RabbitMQ, Docker, and Kubernetes.
+- **LLM Projects**: Developing projects using Large Language Models (LLMs) such as **OpenAI** and **Azure OpenAI**, integrating them into applications for real-time chatbots, document analysis, and code generation.
+- **Document Automation**: Implementing AI-driven solutions to automate document generation, using tools like **Azure OpenAI** to extract and structure data.
+
+---
+
+### 💼 Tech Stack & Tools
+- **Languages**: C#, TypeScript, SQL, MongoDB
+- **Frameworks**: ASP.NET Core, React, Entity Framework Core
+- **DevOps**: Azure DevOps, Docker, Helm, Kubernetes
+- **Message Queues**: RabbitMQ, MassTransit
+- **AI & Machine Learning**: Azure OpenAI, Semantic Kernel
+
+---
+
+### 📫 How to reach me
+- **LinkedIn**: [[LinkedIn Profile]](https://mk.linkedin.com/in/admir-durmishi)
+
+Feel free to explore my repositories and see what I've been working on!
