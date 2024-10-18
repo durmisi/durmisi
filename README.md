@@ -21,6 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software architect and developer,
 ---
 
 ### 📫 How to reach me
-- **LinkedIn**: [[LinkedIn Profile]](https://mk.linkedin.com/in/admir-durmishi)
+- **LinkedIn**: https://mk.linkedin.com/in/admir-durmishi
 
 Feel free to explore my repositories and see what I've been working on!
